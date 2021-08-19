@@ -1,1 +1,1 @@
-# 🔴 1C-BITRIX
+# 🔴 BITRIX
