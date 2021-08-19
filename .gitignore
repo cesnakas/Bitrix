@@ -1,4 +1,40 @@
+### PHPStorm ###
+.idea/
+#.idea/**/workspace.xml
+#.idea/**/tasks.xml
+#.idea/**/usage.statistics.xml
+#.idea/**/dictionaries
+#.idea/**/shelf
+
+### Bitrix ###
+/bitrix/*
+!/bitrix/templates
+!/bitrix/components
+/bitrix/components/bitrix
+!/bitrix/gadgets
+/bitrix/gadgets/bitrix
+!/bitrix/php_interface/
+/bitrix/php_interface/dbconn.php
+/upload/
+
+### Node ###
+node_modules/
+jspm_packages/
+bower_components/
+
+### Sass ###
 .sass-cache/
 *.css.map
 *.sass.map
 *.scss.map
+
+### macOS ###
+.DS_Store
+
+### Windows ###
+Thumbs.db
+
+### Other ###
+/cgi-bin/
+/awstats/
+/webstat/
