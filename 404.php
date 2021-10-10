@@ -9,6 +9,8 @@ require($_SERVER['DOCUMENT_ROOT'].'/bitrix/header.php');
 $APPLICATION->SetTitle('404 Not Found');
 ?>
 
+	<a href="<?=SITE_DIR?>">Back</a>
+
 <?php
 require($_SERVER['DOCUMENT_ROOT'].'/bitrix/footer.php');
 ?>
