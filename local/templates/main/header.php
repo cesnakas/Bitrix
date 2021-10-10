@@ -13,14 +13,14 @@ use Bitrix\Main\Page\Asset;
 	Asset::getInstance()->addJs(SITE_TEMPLATE_PATH.'/js/main.js');
 ?>
 
-    <title><?$APPLICATION->ShowTitle()?></title>
+    <title><?php $APPLICATION->ShowTitle()?></title>
 
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
 
 </head>
 <body>
 
-	<?$APPLICATION->ShowPanel()?>
+	<?php $APPLICATION->ShowPanel()?>
 
     <header>
 

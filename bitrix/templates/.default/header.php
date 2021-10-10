@@ -19,11 +19,11 @@ use Bitrix\Main\Page\Asset;
 	Asset::getInstance()->addJs(SITE_TEMPLATE_PATH.'/script.js');
 ?>
 
-	<title><?$APPLICATION->ShowTitle()?></title>
+	<title><?php $APPLICATION->ShowTitle()?></title>
 
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
 
 </head>
 <body>
 
-	<div id="panel"><?$APPLICATION->ShowPanel()?></div>
+	<div id="panel"><?php $APPLICATION->ShowPanel()?></div>
