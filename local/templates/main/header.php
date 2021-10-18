@@ -6,12 +6,12 @@ use Bitrix\Main\Page\Asset;
 <html lang="<?=LANGUAGE_ID;?>">
 <head>
 
-<?php
+    <?php
 	$APPLICATION->ShowHead();
 	Asset::getInstance()->addString('<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, viewport-fit=cover, user-scalable=0">');
 	Asset::getInstance()->addCss(SITE_TEMPLATE_PATH.'/css/main.css');
 	Asset::getInstance()->addJs(SITE_TEMPLATE_PATH.'/js/main.js');
-?>
+    ?>
 
     <title><?php $APPLICATION->ShowTitle()?></title>
 
@@ -20,7 +20,9 @@ use Bitrix\Main\Page\Asset;
 </head>
 <body>
 
-	<?php $APPLICATION->ShowPanel()?>
+    <?php
+    $APPLICATION->ShowPanel()
+    ?>
 
     <header>
 
