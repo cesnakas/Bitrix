@@ -1,0 +1,5 @@
+<?php
+$sSectionName = "Каталог";
+$arDirProperties = [
+
+];

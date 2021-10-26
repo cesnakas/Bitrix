@@ -1,4 +1,4 @@
-### PHPStorm ###
+### PhpStorm ###
 .idea/
 #.idea/**/workspace.xml
 #.idea/**/tasks.xml
@@ -8,13 +8,13 @@
 
 ### Bitrix ###
 /bitrix/*
-!/bitrix/templates
 !/bitrix/components
 /bitrix/components/bitrix
 !/bitrix/gadgets
 /bitrix/gadgets/bitrix
 !/bitrix/php_interface/
 /bitrix/php_interface/dbconn.php
+!/bitrix/templates
 /upload/
 
 ### Node ###
@@ -38,3 +38,5 @@ Thumbs.db
 /cgi-bin/
 /awstats/
 /webstat/
+
+###
