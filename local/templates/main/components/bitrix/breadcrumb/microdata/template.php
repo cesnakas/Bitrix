@@ -50,9 +50,9 @@ for ($index = 0; $index < $itemSize; $index++) {
 $microData = "
 <script type=\"application/ld+json\">
 	{
-		'@context': 'http://schema.org',
-		'@type': 'BreadcrumbList',
-		'itemListElement': " . \Bitrix\Main\Web\Json::encode($arItems, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_LINE_TERMINATORS) . "
+		\"@context\": \"http://schema.org\",
+		\"@type\": \"BreadcrumbList\",
+		\"itemListElement\": " . \Bitrix\Main\Web\Json::encode($arItems, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_LINE_TERMINATORS) . "
 	}
 </script>";
 
