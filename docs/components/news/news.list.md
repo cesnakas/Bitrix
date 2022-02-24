@@ -1,6 +1,6 @@
 ---
 layout: default
-title: News 
+title: News list
 parent: News
 grand_parent: Components
 nav_order: 1
