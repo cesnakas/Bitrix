@@ -1,0 +1,9 @@
+---
+layout: default
+title: Components
+nav_order: 2
+has_children: true
+permalink: /components/index
+---
+
+# Компоненты Bitrix
