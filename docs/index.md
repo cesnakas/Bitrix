@@ -9,7 +9,6 @@ permalink: /
 ---
 
 ## Документация
-<br>
 
 - [**Правила работы с папками и файлами**](/bitrix/docs/folders-files)
 - [**Основные настройки**](/bitrix/docs/settings)
@@ -19,7 +18,6 @@ permalink: /
 <br>
 
 ## Компоненты
-<br>
 
 - [**Компоненты новостей**](/bitrix/components/news/)
   - [News list](/bitrix/components/news/news.list)
