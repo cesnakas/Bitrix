@@ -3,7 +3,7 @@ layout: default
 title: News
 nav_order: 2
 has_children: true
-permalink: /news
+permalink: /news/index
 ---
 
 # Компоненты новостей
