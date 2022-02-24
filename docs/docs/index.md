@@ -9,6 +9,8 @@ has_toc: false
 
 # Документация
 
+---
+
 - [**Правила работы с папками и файлами**](/bitrix/docs/folders-files#правила-работы-с-папками-и-файлами)
 - [**Основные настройки**](/bitrix/docs/settings/settings#основные-настройки)
   - [Главный модуль](/bitrix/docs/settings/settings#главный-модуль)
