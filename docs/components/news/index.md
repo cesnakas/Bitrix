@@ -7,12 +7,12 @@ has_children: true
 ---
 
 # Компоненты новостей
-{: .no_toc}
+{: .no_toc }
 <details>
     <summary>
         Оглавления
     </summary>
-    {: .text-delta}
+    {: .text-delta }
     - TOC
 {:toc}
 </details>
