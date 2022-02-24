@@ -2,7 +2,8 @@
 layout: default
 title: News
 nav_order: 2
-parent: news
+has_children: true
+permalink: /docs/news
 ---
 
 # Компоненты новостей
