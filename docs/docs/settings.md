@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Main settings
+title: Основные настройки
 parent: Docs
 ---
 

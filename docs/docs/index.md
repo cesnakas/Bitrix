@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Docs
+title: Документация
 has_children: true
 permalink: /docs/
 nav_order: 2
 ---
 
-# Bitrix Framework
+# Документация

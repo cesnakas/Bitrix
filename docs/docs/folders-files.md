@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Folders & Files
+title: Правила работы с папками и файлами
 parent: Docs
 ---
 

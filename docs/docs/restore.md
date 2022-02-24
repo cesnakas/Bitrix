@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Restore website
+title: Перенос сайта
 parent: Docs
 ---
 
