@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Components
-nav_order: 2
 has_children: true
 permalink: /components/
+nav_order: 3
 ---
 
 # Компоненты Bitrix
