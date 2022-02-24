@@ -2,7 +2,7 @@ remote_theme: pmarsceill/just-the-docs
 
 title: Bitrix
 
-color_scheme: dark # "light" (default) and "dark"
+color_scheme: light # "light" (default) and "dark"
 
 gh_edit_link: false
 
