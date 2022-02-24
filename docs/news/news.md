@@ -1,7 +1,6 @@
 ---
 layout: default
-title: News
-description: "Bitrix News — комплексный компонент"
+title: News 
 parent: News
 nav_order: 1
 ---
