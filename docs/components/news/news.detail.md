@@ -1,9 +1,9 @@
 ---
 layout: default
-title: news.list
+title: news.detail
 parent: News
 grand_parent: Components
-nav_order: 1
+nav_order: 2
 ---
 
-# News list
+# News detail
