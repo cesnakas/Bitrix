@@ -1,0 +1,9 @@
+remote_theme: pmarsceill/just-the-docs
+
+title: Bitrix
+
+color_scheme: light # "light" (default) and "dark"
+
+gh_edit_link: false
+
+footer_content: Copyright &copy; 2012-2022
