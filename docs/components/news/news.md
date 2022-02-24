@@ -1,8 +1,8 @@
 ---
 layout: default
 title: News 
-grand_parent: Components
 parent: News
+grand_parent: Components
 permalink: /components/news/
 nav_order: 1
 ---
