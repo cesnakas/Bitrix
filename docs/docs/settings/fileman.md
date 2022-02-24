@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Управление структурой
-parent: Документация
-grand_parent: Компоненты
+parent: Основные настройки
+grand_parent: Документация
 nav_order: 2
 ---
 
