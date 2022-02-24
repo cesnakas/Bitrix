@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Основные настройки
-parent: Docs
+parent: Документация
 ---
 
 # Основные настройки

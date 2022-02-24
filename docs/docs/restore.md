@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Перенос сайта
-parent: Docs
+parent: Документация
 ---
 
 # Перенос сайта
