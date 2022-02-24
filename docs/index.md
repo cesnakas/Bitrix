@@ -27,3 +27,5 @@ permalink: /
 - [**Компоненты новостей**](/bitrix/components/news/)
   - [News list](/bitrix/components/news/news.list)
   - [News detail](/bitrix/components/news/news.detail)
+
+<br>
