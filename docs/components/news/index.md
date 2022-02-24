@@ -8,14 +8,17 @@ has_children: true
 
 # Компоненты новостей
 {: .no_toc }
+
 <details>
     <summary>
         Оглавления
     </summary>
     {: .text-delta }
-    - TOC
+- TOC
 {:toc}
 </details>
+
+---
 
 - news
 - news.list
