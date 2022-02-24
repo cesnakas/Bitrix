@@ -3,6 +3,6 @@ layout: default
 title: Docs
 has_children: true
 permalink: /docs/
-nav_order: 1
+nav_order: 2
 ---
 
