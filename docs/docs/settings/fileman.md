@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Управление структурой
-parent: News
+parent: Документация
 grand_parent: Компоненты
 nav_order: 2
 ---
