@@ -1,7 +1,12 @@
 ---
 layout: default
 title: News
-nav_order: 1
+nav_order: 2
 ---
 
-# News (комплексный компонент)
+# Компоненты новостей
+
+- news
+- news.list
+- news.detail
+
