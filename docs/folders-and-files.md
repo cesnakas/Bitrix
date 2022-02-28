@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Правила работы с папками и файлами
-parent: Документация
-nav_order: 1
+title: Правила работы с файлами
+permalink: /folders-and-files/
+has_children: false
+nav_order: 2
 ---
 
 # Правила работы с папками и файлами
