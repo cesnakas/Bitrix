@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Компоненты
-has_children: true
 permalink: /components/
 nav_order: 3
+has_children: true
 has_toc: false
 ---
 
