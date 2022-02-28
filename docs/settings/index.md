@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Основные настройки
-permalink: /
+permalink: /settings/
 nav_order: 3
 has_children: true
 has_toc: false
