@@ -3,7 +3,7 @@ layout: default
 title: Документация
 has_children: true
 permalink: /docs/
-nav_order: 22
+nav_order: 99
 has_toc: false
 ---
 

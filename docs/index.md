@@ -8,13 +8,17 @@ permalink: /
 # Bitrix Framework
 ---
 
-## Документация
+## Правила работы с папками и файлами
 
-- [**Правила работы с папками и файлами**](/bitrix/docs/folders-files)
+- [**Правила работы с папками и файлами**](/bitrix/folders-and-files/)
 
-- [**Основные настройки**](/bitrix/docs/settings)
-  - [Главный модуль](/bitrix/docs/settings/settings)
-  - [Управление структурой](/bitrix/docs/settings/fileman#управление-структурой)
+<br>
+
+## Основные настройки
+
+- [**Основные настройки**](/bitrix/settings/)
+  - [Главный модуль](/bitrix/settings/main)
+  - [Управление структурой](/bitrix/settings/fileman)
 
 - [**Создание резервной копии**](/bitrix/docs/backups)
 
