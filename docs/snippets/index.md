@@ -11,6 +11,6 @@ has_toc: false
 
 ---
 
-- **Куки (Cookie)**
+- [**Куки (Cookie)**](/bitrix/docs/snippets/cookie)
 
 <br>
