@@ -9,7 +9,7 @@ parent: Сниппеты
 
 ---
 
-<small>Установка значения cookie:</small>
+Установка значения cookie:
 
 ```php
 $cookie = new \Bitrix\Main\Web\Cookie("CookieName", "CookieValue", time()+86400*30);
@@ -21,7 +21,7 @@ $cookie->setHttpOnly(false);
 \Bitrix\Main\Application::getInstance()->getContext()->getResponse()->addCookie($cookie);
 ```
 
-<small>Получение значения Cookie:</small>
+Получение значения Cookie:
 
 ```php
 $request = \Bitrix\Main\Application::getInstance()->getContext()->getRequest();
