@@ -9,4 +9,8 @@ has_toc: false
 
 # Сниппеты Bitrix
 
+---
+
+- **Куки (Cookie)**
+
 <br>
