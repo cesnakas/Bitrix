@@ -2,7 +2,7 @@
 layout: default
 title: Куки (Cookie)
 parent: Сниппеты
-// nav_order: 3
+nav_order: 0
 ---
 
 # Куки (Cookie)

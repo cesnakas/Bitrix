@@ -12,6 +12,6 @@ has_toc: false
 ---
 
 - [**Куки (Cookie)**](/bitrix/snippets/cookie)
-- [**Отключить кэш без авторизации**](/bitrix/snippets/public-clear-cache)
+- [**Кэш без авторизации**](/bitrix/snippets/public-clear-cache)
 
 <br>
