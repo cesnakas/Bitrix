@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Отключить кэш без авторизации
+title: Кэш без авторизации
 parent: Сниппеты
 // nav_order: 3
 ---
