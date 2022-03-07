@@ -13,5 +13,6 @@ has_toc: false
 
 - [**Куки (Cookie)**](/bitrix/snippets/cookie)
 - [**Кэш без авторизации**](/bitrix/snippets/public-clear-cache)
+- [**IP адрес местоположения**](/bitrix/snippets/sale-location-geoip)
 
 <br>
