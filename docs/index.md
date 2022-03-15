@@ -8,9 +8,7 @@ permalink: /
 # Bitrix Framework
 ---
 
-![bitrix](assets/images/bitrix.svg|width=64px)
-[![bitrix](assets/images/bitrix.svg|width=64px)]
-[[bitrix](assets/images/bitrix.svg|width=64px)]
+![bitrix](assets/images/bitrix.svg{width=64px})
 
 <br>
 
