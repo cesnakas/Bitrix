@@ -10,8 +10,6 @@ permalink: /
 
 <img src="assets/images/bitrix.svg" width="64" height="64">
 
-<br>
-
 ## Правила работы с папками и файлами
 
 - [**Правила работы с папками и файлами**](/bitrix/folders-and-files/)
