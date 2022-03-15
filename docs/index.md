@@ -8,7 +8,7 @@ permalink: /
 # Bitrix Framework
 ---
 
-![bitrix](assets/images/bitrix.svg{width=64px})
+<img src="assets/images/bitrix.svg" width="64" height="64">
 
 <br>
 
