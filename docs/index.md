@@ -8,6 +8,10 @@ permalink: /
 # Bitrix Framework
 ---
 
+![bitrix](/docs/assets/images/bitrix.svg)
+
+<br>
+
 ## Правила работы с папками и файлами
 
 - [**Правила работы с папками и файлами**](/bitrix/folders-and-files/)
