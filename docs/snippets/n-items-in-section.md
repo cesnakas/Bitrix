@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Количество элементов в разделе
+title: Элементов в разделе
 parent: Сниппеты
 nav_order: 0
 ---
