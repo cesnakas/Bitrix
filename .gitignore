@@ -1,30 +1,29 @@
 ### Bitrix ###
 /bitrix/*
-
+/upload/
 !/bitrix/components
 /bitrix/components/bitrix
-
 !/bitrix/gadgets
 /bitrix/gadgets/bitrix
-
+# /bitrix/js/*
+# !/bitrix/js/exaple_js
+# /bitrix/modules/*
+# !/bitrix/modules/example_module
 !/bitrix/php_interface/
 /bitrix/php_interface/dbconn.php
-
 !/bitrix/templates
-
-/upload/
 
 ### PhpStorm ###
 .idea/
-#.idea/**/workspace.xml
-#.idea/**/tasks.xml
-#.idea/**/usage.statistics.xml
-#.idea/**/dictionaries
-#.idea/**/shelf
+# .idea/**/workspace.xml
+# .idea/**/tasks.xml
+# .idea/**/usage.statistics.xml
+# .idea/**/dictionaries
+# .idea/**/shelf
 
 ### VSCode ###
 .vscode/
-#.vscode/*
+# .vscode/*
 # !.vscode/settings.json
 # !.vscode/tasks.json
 # !.vscode/launch.json
@@ -50,11 +49,30 @@ __MACOSX
 ### Windows ###
 Thumbs.db
 
+### Video ###
+*.3g2
+*.3gp
+*.asf
+*.asx
+*.avi
+*.flv
+*.mkv
+*.mov
+*.mp4
+*.mpg
+*.ogv
+*.rm
+*.swf
+*.vob
+*.wmv
+*.webm
+
 ### Other ###
 /cgi-bin/
 /awstats/
 /webstat/
 test.php
+*_loc
 *.loc
 *.zip
 *.gzip
