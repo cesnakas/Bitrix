@@ -42,6 +42,13 @@ vendor/
 *.sass.map
 *.scss.map
 
+### Backup ###
+*.bak
+*.gho
+*.ori
+*.orig
+*.tmp
+
 ### macOS ###
 .DS_Store
 __MACOSX
