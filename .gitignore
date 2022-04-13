@@ -1,3 +1,19 @@
+### Bitrix ###
+/bitrix/*
+
+!/bitrix/components
+/bitrix/components/bitrix
+
+!/bitrix/gadgets
+/bitrix/gadgets/bitrix
+
+!/bitrix/php_interface/
+/bitrix/php_interface/dbconn.php
+
+!/bitrix/templates
+
+/upload/
+
 ### PhpStorm ###
 .idea/
 #.idea/**/workspace.xml
@@ -6,21 +22,20 @@
 #.idea/**/dictionaries
 #.idea/**/shelf
 
-### Bitrix ###
-/bitrix/*
-!/bitrix/components
-/bitrix/components/bitrix
-!/bitrix/gadgets
-/bitrix/gadgets/bitrix
-!/bitrix/php_interface/
-/bitrix/php_interface/dbconn.php
-!/bitrix/templates
-/upload/
+### VSCode ###
+.vscode/
+#.vscode/*
+# !.vscode/settings.json
+# !.vscode/tasks.json
+# !.vscode/launch.json
+# !.vscode/extensions.json
+# !.vscode/*.code-snippets
 
-### Node ###
+### Libs ###
 node_modules/
 jspm_packages/
 bower_components/
+vendor/
 
 ### Sass ###
 .sass-cache/
@@ -30,6 +45,7 @@ bower_components/
 
 ### macOS ###
 .DS_Store
+__MACOSX
 
 ### Windows ###
 Thumbs.db
@@ -38,5 +54,21 @@ Thumbs.db
 /cgi-bin/
 /awstats/
 /webstat/
-
-###
+test.php
+*.loc
+*.zip
+*.gzip
+*.gz
+*.tgz
+*.tar
+*.gz.[0-9]
+*.sql
+*.log
+*.mp3
+*.exe
+*.db
+*.csv
+*.xml
+*.psd
+*.[oa]
+*~
