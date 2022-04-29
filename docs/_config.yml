@@ -1,11 +1,21 @@
+### Main settings ###
+title: Bitrix Kit
+lang: ru
+# URL
+permalink: pretty
+
+### Theme ###
 remote_theme: pmarsceill/just-the-docs
 
-title: Bitrix
+# "light" (default) and "dark"
+color_scheme: light
 
-color_scheme: light # "light" (default) and "dark"
+aux_links:
+  "Česnakas on GitHub":
+    - "//github.com/cesnakas"
+
+aux_links_new_tab: true
 
 gh_edit_link: false
 
 search_enabled: false
-
-footer_content: Copyright &copy; 2012-2022
