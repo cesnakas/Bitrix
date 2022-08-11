@@ -13,6 +13,10 @@ nav_order: 0
 
 Пример: ``<script type=”text/javascript” data-skip-moving="true" src=”...”></script>``
 
-```JS
+```js
+data-skip-moving="true"
+```
+
+```javascript
 data-skip-moving="true"
 ```
