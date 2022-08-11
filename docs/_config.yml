@@ -20,8 +20,8 @@ gh_edit_link: false
 
 search_enabled: true
 search:
-  preview_words_before: 3
-  preview_words_after: 3
+  #preview_words_before: 3
+  #preview_words_after: 3
   lang:
     - en
     - ru
