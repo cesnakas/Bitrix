@@ -8,11 +8,3 @@ has_toc: true
 ---
 
 # Сниппеты Bitrix
-
----
-
-- [**Куки (Cookie)**](/bitrix/snippets/cookie)
-- [**Кэш без авторизации**](/bitrix/snippets/public-clear-cache)
-- [**IP адрес местоположения**](/bitrix/snippets/sale-location-geoip)
-
-<br>

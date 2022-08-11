@@ -8,5 +8,3 @@ has_toc: true
 ---
 
 # Компоненты Bitrix
-
-<br>
