@@ -2,8 +2,7 @@
 layout: default
 title: Управление структурой
 parent: Основные настройки
-grand_parent: Документация
-nav_order: 37
+nav_order: 0
 ---
 
 # Управление структурой

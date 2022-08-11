@@ -2,7 +2,6 @@
 layout: default
 title: Главный модуль
 parent: Основные настройки
-grand_parent: Документация
 nav_order: 1
 ---
 
