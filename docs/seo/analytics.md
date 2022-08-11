@@ -16,7 +16,3 @@ nav_order: 0
 ```js
 data-skip-moving="true"
 ```
-
-```javascript
-data-skip-moving="true"
-```
