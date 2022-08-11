@@ -1,0 +1,17 @@
+.side-bar {
+    @media (min-width: 50rem) {
+        width: 30vw;
+    }
+    @media (min-width: 66.5rem) {
+        width: 30vw;
+    }
+}
+
+.main {
+    @media (min-width: 50rem) {
+        margin-left: 30vw;
+    }
+    @media (min-width: 66.5rem) {
+        margin-left: 30vw;
+    }
+}
