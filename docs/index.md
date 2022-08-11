@@ -3,10 +3,10 @@ layout: default
 title: Bitrix Framework
 nav_order: 0
 permalink: /
-has_toc: true
 ---
 
 # Bitrix Framework
+
 ---
 
 <img src="assets/images/bitrix.svg" width="64" height="64">
