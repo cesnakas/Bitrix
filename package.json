@@ -1,0 +1,23 @@
+{
+  "name": "Bitrix",
+  "version": "2.0.0",
+  "author": "Sergei Česnakas",
+  "scripts": {
+    "dev": "webpack serve",
+    "build": "webpack build --mode=production"
+  },
+  "devDependencies": {
+    "@popperjs/core": "latest",
+    "autoprefixer": "latest",
+    "bootstrap": "5.3.0-alpha3",
+    "css-loader": "latest",
+    "html-webpack-plugin": "latest",
+    "postcss-loader": "latest",
+    "sass": "latest",
+    "sass-loader": "latest",
+    "style-loader": "latest",
+    "webpack": "latest",
+    "webpack-cli": "latest",
+    "webpack-dev-server": "latest"
+  }
+}
