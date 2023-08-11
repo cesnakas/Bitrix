@@ -1,5 +1,5 @@
 <?php
-$sSectionName = "Раздел — Новости";
+$sSectionName = 'Раздел — Новости';
 $arDirProperties = [
 
 ];
