@@ -14,13 +14,12 @@ use Bitrix\Main\Page\Asset;
   // Meta tags & etc
   Asset::getInstance()->addString('<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, viewport-fit=cover, user-scalable=0">');
 
-  // Bootstrap v5.3.2
-  Asset::getInstance()->addCss('https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css');
-  Asset::getInstance()->addJs('https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js');
-
   // Custom CSS & JS
   Asset::getInstance()->addCss(SITE_TEMPLATE_PATH . '/css/main.css');
-  Asset::getInstance()->addJs(SITE_TEMPLATE_PATH . '/js/main.js');
+  Asset::getInstance()->addString('<script src="' . SITE_TEMPLATE_PATH . '/js/main.js" data-skip-moving="true"></script>', false, 'BEFORE_CSS');
+
+  // Script bottom page
+  Asset::getInstance()->setJsToBody(true);
 
   // Analytics
   include_once $_SERVER['DOCUMENT_ROOT'] . '/local/include/analytics.php';
@@ -44,10 +43,10 @@ use Bitrix\Main\Page\Asset;
       <div class="collapse navbar-collapse" id="navbar">
         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="#">Home</a>
+            <a class="nav-link active" aria-current="page" href="<?= SITE_DIR ?>">Главная</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Link</a>
+            <a class="nav-link" href="<?= SITE_DIR ?>news/">Новости</a>
           </li>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">

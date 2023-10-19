@@ -1,24 +1,24 @@
 // 1. Сначала включите функции (чтобы вы могли манипулировать цветами, SVG, calc и т.д.)
-@import 'node_modules/bootstrap/scss/functions';
+//@import 'node_modules/bootstrap/scss/functions';
 
 // 2. Включите сюда любые переопределения переменных по умолчанию
 
 // 3. Включите обязательные таблицы стилей Bootstrap (включая любые индивидуальные таблицы стилей цветового режима)
-@import 'node_modules/bootstrap/scss/variables';
-@import 'node_modules/bootstrap/scss/variables-dark';
+//@import 'node_modules/bootstrap/scss/variables';
+//@import 'node_modules/bootstrap/scss/variables-dark';
 
 // 4. Включите сюда все переопределения карт по умолчанию
 
 // 5. Включите остальные обязательные части
-@import 'node_modules/bootstrap/scss/maps';
-@import 'node_modules/bootstrap/scss/mixins';
+//@import 'node_modules/bootstrap/scss/maps';
+//@import 'node_modules/bootstrap/scss/mixins';
 
 // 6. Опционально включайте любые другие части по необходимости
-@import 'node_modules/bootstrap/scss/root';
-@import 'node_modules/bootstrap/scss/reboot';
+//@import 'node_modules/bootstrap/scss/root';
+//@import 'node_modules/bootstrap/scss/reboot';
 //@import "node_modules/bootstrap/scss/type";
 //@import "node_modules/bootstrap/scss/images";
-@import 'node_modules/bootstrap/scss/containers';
+//@import 'node_modules/bootstrap/scss/containers';
 //@import "node_modules/bootstrap/scss/grid";
 //@import "node_modules/bootstrap/scss/tables";
 //@import "node_modules/bootstrap/scss/forms";
@@ -51,3 +51,4 @@
 
 // 8. Добавьте сюда собственный код
 
+@import 'bootstrap/scss/bootstrap';

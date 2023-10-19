@@ -78,6 +78,7 @@ Thumbs.db
 /cgi-bin/
 /awstats/
 /webstat/
+mix-manifest.json
 test.php
 *_loc
 *.loc
