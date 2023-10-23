@@ -13,15 +13,15 @@
     "webpack:build": "webpack build --mode=production"
   },
   "devDependencies": {
-    "browser-sync": "^2.29.3",
-    "browser-sync-webpack-plugin": "^2.3.0",
+    "browser-sync": "latest",
+    "browser-sync-webpack-plugin": "latest",
     "cross-env": "latest",
     "css-loader": "latest",
-    "laravel-mix": "^6.0.49",
-    "resolve-url-loader": "^5.0.0",
+    "laravel-mix": "latest",
+    "resolve-url-loader": "latest",
     "sass": "latest",
     "sass-loader": "latest",
-    "vue-template-compiler": "^2.7.14",
+    "vue-template-compiler": "latest",
     "webpack": "latest"
   },
   "dependencies": {

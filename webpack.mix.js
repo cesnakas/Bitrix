@@ -12,11 +12,13 @@ mix
       ws: true,
     },
     files: [
-      'local/assets/*/*.*',
+      'local/assets/**/*.*',
+      './**/*.php'
     ],
     ui: false,
     open: true,
     reloadOnRestart: true,
+    reloadDelay: 1000,
     watch: true,
     injectChanges: false
   })
